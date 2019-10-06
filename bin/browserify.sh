@@ -2,7 +2,7 @@
 
 # Script to browserify without Gulp - usually Gulp is used to browserify and
 # build everything.
-
+# script automatic
 browserify_cmd=node_modules/browserify/bin/cmd.js
 
 bin_path=`dirname $0`
